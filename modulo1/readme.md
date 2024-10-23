@@ -1,0 +1,1 @@
+If, Loops, while, variaveis, variaveis reservadas

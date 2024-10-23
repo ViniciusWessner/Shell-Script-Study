@@ -1,0 +1,8 @@
+echo "---------------"
+echo "parametro 1: $1"
+echo "parametro 2: $2"
+echo "todos os parametros: $*"
+echo "quantos parametrs usados: $#"
+echo "saida do ultimo comando: $?"
+echo "PID: $$"
+echo "nome do script: $0"

@@ -1,0 +1,5 @@
+# 1 para usar cores 0 para nao usar
+USAR_CORES=0
+
+# Servicos que monitoramos
+SERVICOS_MONITORAR="apache2"
