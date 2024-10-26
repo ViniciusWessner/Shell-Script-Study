@@ -36,3 +36,4 @@ No Módulo 9, você desenvolveu um sistema de usuários utilizando Bash, o que e
 Módulo 10: [Interface Gráfica com dialog](/modulo10%20-%20Dialog/)
 No Módulo 10, o projeto avançou e foi necessário implementar um dialog do sistema de usuários em Bash. Isso proporcionou uma interface mais amigável para interação com o usuário, permitindo operações de gerenciamento de usuários de forma mais visual e intuitiva.
 
+[VEJA AQUI O PROJETO FINAL DO CURSO](https://github.com/ViniciusWessner/Registro-de-Pontos)
